@@ -1,0 +1,10 @@
+name: reddit_news
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - boto3==1.20.48
+    - praw==7.5.0
+    - s3transfer==0.5.1
+    - tweepy==4.5.0
+prefix: 

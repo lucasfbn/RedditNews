@@ -1,0 +1,21 @@
+{
+  "twitter_secrets": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_key": "",
+    "access_secret": ""
+  },
+  "s3_bucket": {
+    "bucket_name": "",
+    "bucket_access_key_id": "",
+    "bucket_access_secret_key": ""
+  },
+  "reddit": {
+    "subreddit": "",
+    "client_id": "",
+    "client_secret": "",
+    "user_agent": "",
+    "username": "",
+    "password": ""
+  }
+}
